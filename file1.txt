@@ -1,3 +1,0 @@
-this is the test
-file which is used for git testing
-
